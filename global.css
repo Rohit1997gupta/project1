@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.image1{
+    
+    background-repeat: no-repeat;
+    background-image: url(https://img.freepik.com/premium-photo/view-manhattan-sunset-new-york-city_268835-463.jpg?w=2000);
+    
+    height: 600px;
+    background-attachment: fixed;
+    
+}
+.parallx{
+background-color: black;
+padding: 20px;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+
+text-align: center;
+color: white;
+letter-spacing: 4px
+}
+.section-one{
+    text-align: center;
+    padding-top: 40px;
+    
+
+}
+p{
+    padding:30px 80px;
+}
+.image-two-text{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+    /* opacity: 0.70; */
+    position: relative;
+    background-attachment: fixed;
+    /* background-attachment: scroll; */
+    background-image: url(https://images.pexels.com/photos/169647/pexels-photo-169647.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+}
+.image-two{
+    background-color: black;
+    padding: 20px;
+    /* display: flex; */
+    /* text-align: center; */
+    color: white;
+    /* justify-content: center; */
+    letter-spacing: 4px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.section-two{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+}
+h4{
+    font-size: 50px;
+}
+.image-three-text{
+    position: relative;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* background-attachment: scroll; */
+    background-image: url(https://media.gettyimages.com/photos/empty-pavement-with-modern-architecture-picture-id1207663571?s=612x612);
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+    /* opacity: 0.70; */
+}
+.image-three{
+    background-color: black;
+    padding: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+/* text-align: center; */
+color: wheat;
+font-size: 40px;
+letter-spacing: 4px
+}
+.section-three{
+    text-align: center;
+    padding: 40px;
+    background-color: black;
+    color: white;
+    letter-spacing: 1px
+}
+h6{
+    font-size: 40px;
+    font-family:Georgia, seri;
+    letter-spacing: 4px
+}
+.last{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+    /* opacity: 0.70; */
+    position: relative;
+    background-attachment: fixed;
+    /* background-attachment: scroll; */
+    background-image: url(https://www.ihs.nl/sites/corporate/files/styles/responsive_w350_r4_3/public/2018-07/photo-1465032995827-c3dce1d71c2a_0.jpg?h=8d5278a0&itok=YUd1NyQ3);
+}
+.traversy{
+    background-color: black;
+padding: 20px;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+
+text-align: center;
+color: white;
+letter-spacing: 4px
+}
